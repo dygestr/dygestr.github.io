@@ -6,7 +6,7 @@ categories: Blog
 comments: true
 ---
 
-Welcome to the Dygestr Digestion Tracker home page. This website will be about digestive health and will aim to provide status updates on the [Dygestr digestive health tracker]().
+Welcome to the Dygestr Digestion Tracker home page. This website will be about digestive health and will aim to provide status updates on the [Dygestr digestive health tracker](https://github.com/dygestr/dygestr).
 
 This application will allow users to track their food intake, digestive health and medication and provide users with a dashboard and the ability to export and save their data.
 
@@ -18,4 +18,4 @@ I have also enabled [Discussions](https://github.com/dygestr/dygestr/discussions
 
 I aim to write this application in [Python](https://www.python.org/) and use the [Django](https://www.djangoproject.com/) web framework and use [Pandas](https://pandas.pydata.org/), and [Plotly](https://plotly.com/) for the dashboard charts.
 
-I have also created a youtube channel at [Dygestr - Digestive Health Tracker](https://www.youtube.com/channel/UCnW8jZ9AaP47K3vY-KMoesQ)
+I have also created a youtube channel at [Dygestr - Digestive Health Tracker](https://www.youtube.com/channel/UCnW8jZ9AaP47K3vY-KMoesQ), an [Instagram](https://www.instagram.com/dygestr) account and a [Reddit](https://www.reddit.com/user/dygestr) account.
