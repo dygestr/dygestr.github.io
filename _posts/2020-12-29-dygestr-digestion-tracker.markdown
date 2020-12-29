@@ -17,3 +17,5 @@ The source code for the Dygestr app is being hosted on GitHub at <https://github
 I have also enabled [Discussions](https://github.com/dygestr/dygestr/discussions) and [Issues](https://github.com/dygestr/dygestr/issues) on the repository in case any one wants to help contribute to the project. There's also a [Wiki](https://github.com/dygestr/dygestr/wiki) that we may update with information.
 
 I aim to write this application in [Python](https://www.python.org/) and use the [Django](https://www.djangoproject.com/) web framework and use [Pandas](https://pandas.pydata.org/), and [Plotly](https://plotly.com/) for the dashboard charts.
+
+I have also created a youtube channel at [Dygestr - Digestive Health Tracker](https://www.youtube.com/channel/UCnW8jZ9AaP47K3vY-KMoesQ)
