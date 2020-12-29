@@ -30,16 +30,17 @@ plainwhite:
     github:  dygestr
     #linkedIn: in/samarsault
     #rss: rss
-    #dribbble: jekyll
-    #flickr:   jekyll
-    #instagram: jekyll
-    #pinterest: jekyll
+    #dribbble: dygestr
+    #flickr:   dygestr
+    instagram: dygestr
+    #pinterest: dygestr
     youtube: UCnW8jZ9AaP47K3vY-KMoesQ
-    #facebook: jekyll
-    #soundcloud: jekyll
-    #telegram: jekyll
-    #gitlab: jekyll
-    #email: jekyll
+    #facebook: dygestr
+    #soundcloud: dygestr
+    #telegram: dygestr
+    #gitlab: dygestr
+    email: dygestr@gmail.com
+    reddit: dygestr
 
     # Mastodon instances
     # mastodon:

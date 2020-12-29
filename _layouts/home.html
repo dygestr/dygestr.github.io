@@ -45,6 +45,7 @@ layout: default
         <div class="post">
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
+            <a href="{{ post.url | relative_url }}">read more...</a>
           {%- endif -%}
         </div>
       </li>
