@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deploying Dygestr to ElasticBeanstalk on AWS"
-date:   2020-01-01 10:03:36 +0530
+date:   2021-01-01 10:03:36 +0530
 categories: Blog
 comments: true
 ---

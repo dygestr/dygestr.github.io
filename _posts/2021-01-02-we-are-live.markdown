@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dygestr application is live!"
-date:   2020-01-02 10:03:36 +0530
+date:   2021-01-02 10:03:36 +0530
 categories: Blog
 comments: true
 ---
