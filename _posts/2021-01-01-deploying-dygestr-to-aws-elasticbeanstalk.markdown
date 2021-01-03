@@ -29,7 +29,7 @@ option_settings:
 
 The dygestr application is now available at the following endpoint :
 
-<http://dygestr.ap-southeast-2.elasticbeanstalk.com/>
+<https://www.dygestr.com/>
 
 If the application gains any traction I will buy a short and friendly .com address.
 

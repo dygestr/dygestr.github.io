@@ -8,7 +8,7 @@ comments: true
 
 I spent the day today deploying Dygestr app to an AWS EC2 instance, had to do a fair bit of troubleshooting to get nginx, gunicorn and django playing nice together, specifically to do with getting it to serve static files properly but I got it working and it's currently live at :
 
-<http://ec2-54-252-45-172.ap-southeast-2.compute.amazonaws.com/>
+<https://www.dygestr.com/>
 
 Going to shake it down a bit and test out the url from mobile phone to see how the experience is.
 
@@ -18,7 +18,7 @@ Currently in the Dygestr app you can track Stool, Food, Medication, Weight, Exer
 
 ![](/assets/img/dygestr-screenshot-001.png)
 
-Once you've entered in your entries you can check out the Dashboard tab, this will give you a daily dashboard of number of bowel movements grouped by bristol stool type. 
+Once you've entered in your entries you can check out the Dashboard tab, this will give you a daily dashboard of number of bowel movements grouped by bristol stool type.
 
 Also what medications you have taken each day.
 
