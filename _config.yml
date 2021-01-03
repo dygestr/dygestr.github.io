@@ -11,6 +11,13 @@ permalink: /:slug
 sass:
   sass_dir: _sass
 plainwhite:
+  navigation:
+    - title: "Getting Started Guide"
+      url: "/getting-started"
+    - title: "Sign Up"
+      url: "https://www.dygestr.com/users/signup/"
+    - title: "Login"
+      url: "https://www.dygestr.com/users/login/"
   disqus_shortname: dygestr
   name: Dygestr
   tagline: Digestion Tracker
