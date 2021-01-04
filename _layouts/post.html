@@ -19,7 +19,9 @@ layout: default
   <div class="post">
     {{ content }}
     <!-- Target Word Count 1600 -->
-    Word Count: {{ page.content | number_of_words }} 
+    <p>
+      Word Count: {{ page.content | number_of_words }}
+    </p>
   </div>
   {%- if site.plainwhite.disqus_shortname -%}
   <div id="disqus_thread" style="margin-top:25px"></div>

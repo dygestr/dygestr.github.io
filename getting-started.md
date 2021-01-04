@@ -11,6 +11,7 @@ comments: false
 - [Dygester Getting Started](#dygester-getting-started)
     - [What is Dygester?](#what-is-dygester)
     - [How to register an account](#how-to-register-an-account)
+    - [Setting your timezone](#setting-your-timezone)
     - [How to add an entry](#how-to-add-an-entry)
         - [Stool](#stool)
         - [Food](#food)
@@ -34,6 +35,13 @@ To register an account go to [www.dygestr.com](https://www.dygestr.com){:target=
 Enter a username and password and click **Sign up**
 
 ![](/assets/img/getting-started/dygestr-getting-started-002.png)
+
+## Setting your timezone
+
+To set your timezone click your username in the top right hand corner to go into profile settings,
+select your timezone from the dropdown list and click save :
+
+![](/assets/img/getting-started/dygestr-getting-started-012.png)
 
 ## How to add an entry
 
@@ -90,3 +98,6 @@ To download your data as a spreadsheet click the save icon on the diary page :
 You can now open the downloaded file into excel :
 
 ![](/assets/img/getting-started/dygestr-getting-started-011.png)
+
+
+
