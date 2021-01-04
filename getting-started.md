@@ -19,6 +19,7 @@ comments: false
         - [Weight](#weight)
     - [Setting Food Triggers](#setting-food-triggers)
     - [Export Diary as Spreadsheet](#export-diary-as-spreadsheet)
+    - [Using Dygestr on Mobile Phones](#using-dygestr-on-mobile-phones)
 
 <!-- /TOC -->
 
@@ -99,5 +100,24 @@ You can now open the downloaded file into excel :
 
 ![](/assets/img/getting-started/dygestr-getting-started-011.png)
 
+## Using Dygestr on Mobile Phones
 
+Currently there is no mobile application for Dygestr, however the application has been written with mobile access in mind.
 
+On an iPhone open Safari app and browse to https://www.dygestr.com
+
+Click the Options button at the bottom :
+
+<img src="/assets/img/getting-started/dygestr-getting-started-013.png" height="30%" width="30%">
+
+Click the **Add to Home Screen** option :
+
+<img src="/assets/img/getting-started/dygestr-getting-started-014.png" height="30%" width="30%">
+
+Type Dygestr as the name and click **Done** :
+
+<img src="/assets/img/getting-started/dygestr-getting-started-016.png" height="30%" width="30%">
+
+You should now see a Dygestr shortcut on your home screen :
+
+<img src="/assets/img/getting-started/dygestr-getting-started-015.png" height="30%" width="30%">
